@@ -1,0 +1,5 @@
+{
+  "name": "Ranking Tatuí Cat B",
+  "description": "Um aplicativo para gerenciar um ranking de tênis com 40 participantes, grupos mensais e um sistema de pontos customizado. Acompanhe os resultados, atualize as classificações e avance para o próximo mês para formar novos grupos.",
+  "requestFramePermissions": []
+}
